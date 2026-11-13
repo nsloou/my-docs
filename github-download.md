@@ -1,4 +1,4 @@
-# Fetch
+# Github-download
 
 从 GitHub 私有仓库下载单个文件。使用一个独立的 `fetch.sh`，兼容 Debian 12/13 的 `/bin/sh` 和 Alpine 的 `ash`，不需要额外安装 Bash、jq、Python 或 Git。
 
