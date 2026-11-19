@@ -38,7 +38,7 @@ curl -fL -o github-file-downloader.sh "https://raw.githubusercontent.com/nsloou/
 
 ```sh
 printf '%s  %s\n' \
-  '64c4bc33f73c0e51ab48660d2d21dce74cfa5c70c9e42a5b86fa24aed63a3f7b' \
+  '5a9f432dc12239bd96802db96110422b878fa20e07e89e03a51bad27bb1964d1' \
   'github-file-downloader.sh' | sha256sum -c - &&
 chmod +x github-file-downloader.sh &&
 ./github-file-downloader.sh
